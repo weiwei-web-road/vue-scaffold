@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T02:12:19.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="19.0.3" etag="LwEKya298lrIpVMNaMsb" type="github"><diagram id="uHuxngHkcp9PVedCGbLy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-05T02:45:22.938Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="56dzR85X2jLxRMnsfMJ8" version="19.0.3" type="github">
+  <diagram id="uHuxngHkcp9PVedCGbLy" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-5" value="私有化构建" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-1" target="WGHQ0hbwyn-cSJ5vNgxJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-1" value="src/private配置目录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-6" value="HTML私有化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-2" target="WGHQ0hbwyn-cSJ5vNgxJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-2" target="WGHQ0hbwyn-cSJ5vNgxJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-12" value="构建自定义配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGHQ0hbwyn-cSJ5vNgxJ-11">
+          <mxGeometry x="0.0518" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-2" target="WGHQ0hbwyn-cSJ5vNgxJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-15" value="样式主题配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGHQ0hbwyn-cSJ5vNgxJ-14">
+          <mxGeometry x="0.311" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-2" value="npm构建命令&lt;br&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;SERVER_PRIVATE 指定构建配置文件&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-3" value="HTML replace plugin&lt;br&gt;window全局注入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-4" value="发布时，上传配置平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="243.5" y="550" width="50" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-8" value="页面初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-9" value="antd 主题配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-10" value="define plugin&lt;br&gt;process.env上挂载" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-13" value="css less配置 modifyVars" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
