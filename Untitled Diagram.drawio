@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T03:31:57.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fcvPwxQu0c-oIFTdGZDi" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T03:33:19.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cnoohU4c_8uTyflSky7S" version="19.0.3" type="github">
   <diagram id="uHuxngHkcp9PVedCGbLy" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
           <mxGeometry x="810" y="545" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-24" value="需要升级industry/smartWeb/chat-vue到vue3 antdv3，存在坑&lt;br&gt;风险：样式会有局部变化&lt;br&gt;好处：react和vue的样式会统一、实现类似antd pro 的主题配置热更新效果" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="410" width="200" height="107.5" as="geometry" />
+          <mxGeometry x="810" y="426.25" width="200" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-27" target="WGHQ0hbwyn-cSJ5vNgxJ-33">
           <mxGeometry relative="1" as="geometry" />
