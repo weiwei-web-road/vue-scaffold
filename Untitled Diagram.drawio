@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T03:33:19.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cnoohU4c_8uTyflSky7S" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T03:51:24.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qtfwz6nlhqCnxpO8-DL0" version="19.0.3" type="github">
   <diagram id="uHuxngHkcp9PVedCGbLy" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
         <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-53" target="WGHQ0hbwyn-cSJ5vNgxJ-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-53" value="页面增加主题定制页面" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-53" value="客服增加主题定制页面" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-57" value="需要后台配合" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -201,6 +201,24 @@
         </mxCell>
         <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-64" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="1160" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-65" value="定制方案" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-66" value="ASP方案讨论" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1580" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-67" value="腾讯开源代码&lt;br&gt;tencent.git" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="434" y="1800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="WGHQ0hbwyn-cSJ5vNgxJ-68" target="WGHQ0hbwyn-cSJ5vNgxJ-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-68" value="&amp;nbsp;渠道商开发" style="shape=actor;whiteSpace=wrap;html=1;dashed=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1810" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WGHQ0hbwyn-cSJ5vNgxJ-70" value="思路：&lt;br&gt;1、重构：升级antd 和 vue 增强代码能力，尽可能利用antd和vue的新能力规范定制&lt;br&gt;2、更加严格ts，依赖于1&lt;br&gt;根据ts自动导出组件文档，CR更加直观严格&lt;br&gt;3、集成测试，编写严格的测试用例，测试用例按照QA测试用例来控制&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1640" width="120" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
