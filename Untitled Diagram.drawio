@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T06:23:14.100Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R645zlhEH3Kfj-m15j-A" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-07T06:26:31.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VYjtlZNX9bty3JPTE2bj" version="20.2.3" type="github" pages="2">
   <diagram id="uHuxngHkcp9PVedCGbLy" name="Page-1">
     <mxGraphModel dx="1234" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
             <mxPoint x="313" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_VAX8HDmhliVcVTFk6uk-23" value="&lt;span style=&quot;font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;IndustryPlatform：文本客服配置端&lt;br&gt;ChatWeb: 文本客服H5&lt;br&gt;Chat-Vue: 客服聊天组件&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#0000CC;" vertex="1" parent="1">
+        <mxCell id="_VAX8HDmhliVcVTFk6uk-23" value="&lt;span style=&quot;font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;IndustryPlatform：文本客服配置端&lt;br&gt;ChatWeb: 文本客服H5&lt;br&gt;Chat-Vue: 客服聊天组件&lt;br&gt;SmartContactCMS: 微前端React引入页面&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#0000CC;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
